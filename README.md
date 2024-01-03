@@ -12,7 +12,7 @@ Classmates were used to help with the .isin() function within the pandas library
 
 Stackoverflow was used to get a better grasp of merging and structuring DataFrames
 
-Youtube
+Youtube:
 Scatter Plots : Introduction to Positive and Negative Correlation https://youtu.be/CWnfwZRAuaY
 
 Merging Multiple DataFrames | Merging More Than Two DataFrames | Conditional Merge | Advance Level https://youtu.be/5FWV9H1B3mg
